@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,F as o,a as e,b as n}from"./app.0592349d.js";const _={},c=e("h1",{id:"ok",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#ok","aria-hidden":"true"},"#"),n(" ok")],-1),s=e("p",null,"[vite] (./Create_Vueapp_with_Vite.md)",-1);function d(i,l){return t(),r(o,null,[c,s],64)}var f=a(_,[["render",d],["__file","index.html.vue"]]);export{f as default};

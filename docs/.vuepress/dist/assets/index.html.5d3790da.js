@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as t}from"./app.0592349d.js";const c={};function n(o,_){return r(),t("p",null,"Vite press powered blog.")}var s=e(c,[["render",n],["__file","index.html.vue"]]);export{s as default};
