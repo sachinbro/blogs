@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-beta.39",
+    "@vuepress/plugin-back-to-top": "^2.0.0-beta.38",
     "vuepress": "^2.0.0-beta.39"
   },
   "name": "vuepress-ddemo",
@@ -124,7 +125,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
-
   },
   "author": "sachin",
   "license": "ISC",
