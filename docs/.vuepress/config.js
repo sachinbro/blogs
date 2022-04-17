@@ -10,8 +10,19 @@ module.exports = {
       logo: 'https://vuejs.org/images/logo.png',
         navbar:[
             {text: 'Home', link: '/'},
-            {text: 'blog', link: '/blogs/blogIndex.md'},
+            
         ],
     },
-   
+   plugins: [
+     [
+       '@vuepress/plugin-search',
+       {
+         locales:{
+           '/' :{
+             placeholder: 'Search'
+           }
+         }
+       }
+     ]
+   ]
   }
