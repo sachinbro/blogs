@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"Blogs",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Vite tutorials",slug:"vite-tutorials",children:[]}],git:{updatedTime:1650206767e3,contributors:[{name:"Sachin Shilwal",email:"34100453+sachinbro@users.noreply.github.com",commits:4}]},filePathRelative:"readme.md"};export{e as data};
