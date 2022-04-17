@@ -12,9 +12,6 @@ module.exports = {
             {text: 'Home', link: '/'},
             {text: 'blog', link: '/blogs/blogIndex.md'},
         ],
-       sidebar:{
-           
-       }
     },
    
   }
