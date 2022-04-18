@@ -1,2 +1,2 @@
 # Blogs
-## [Vite tutorials ](/vitetutorial/readme.md)
+## [Vite tutorials ](./vitetutorial/readme.md)
