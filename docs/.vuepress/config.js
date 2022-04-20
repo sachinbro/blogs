@@ -3,7 +3,7 @@ module.exports = {
     lang: 'en-US',
     title: 'Blogs',
     description: 'This is my first VuePress site',
-    base:'/',
+    base:'/blogs/',
   
     // theme and its config
     theme: '@vuepress/theme-default',
@@ -11,6 +11,7 @@ module.exports = {
       logo: 'https://vuejs.org/images/logo.png',
         navbar:[
             {text: 'Home', link: '/'},
+            {text: 'Blogs', link: '/blogIndex/'}
             
         ],
     },
