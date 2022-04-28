@@ -10,7 +10,7 @@ module.exports = {
     themeConfig: {
       logo: 'https://vuejs.org/images/logo.png',
         navbar:[
-            {text: 'Home', link: '/'},
+            {text: 'Home', link: 'https://sachinshilwal.com.np'},
             {text: 'Blogs', link: '/blogIndex/'}
             
         ],
