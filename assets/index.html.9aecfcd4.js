@@ -1,0 +1,1 @@
+const t={key:"v-ab37c358",path:"/vitetutorial/",title:"Create Vue app with Vite!",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651061546e3,contributors:[{name:"Sachin Shilwal",email:"34100453+sachinbro@users.noreply.github.com",commits:3}]},filePathRelative:"vitetutorial/readme.md"};export{t as data};
