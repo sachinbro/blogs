@@ -1,0 +1,1 @@
+const e={key:"v-31987621",path:"/leetcode/",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"69- Sqrt(x) Leetcode",slug:"_69-sqrt-x-leetcode",children:[]}],git:{updatedTime:1651213931e3,contributors:[{name:"Sachin Shilwal",email:"34100453+sachinbro@users.noreply.github.com",commits:1}]},filePathRelative:"leetcode/readme.md"};export{e as data};
