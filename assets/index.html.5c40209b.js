@@ -1,1 +1,0 @@
-import{_ as t,r as o,o as n,c as s,b as a,w as r,d as c}from"./app.673314da.js";const _={},l=c("gh-pages");function i(d,p){const e=o("RouterLink");return n(),s("p",null,[a(e,{to:"/github/deploy-site-gh-pages.html"},{default:r(()=>[l]),_:1})])}var m=t(_,[["render",i],["__file","index.html.vue"]]);export{m as default};
