@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"Blogs",lang:"en-US",frontmatter:{footer:"\xA9 2022-present sachinshilwal.com.np"},excerpt:"",headers:[{level:2,title:"LeetCode Solutions",slug:"leetcode-solutions",children:[]},{level:2,title:"Vite tutorials",slug:"vite-tutorials",children:[]}]};export{e as data};

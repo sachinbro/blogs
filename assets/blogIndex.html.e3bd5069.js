@@ -1,0 +1,1 @@
+const t={key:"v-0a46b3be",path:"/blogIndex/blogIndex.html",title:"Blogs",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Vite tutorials",slug:"vite-tutorials",children:[]},{level:2,title:"Git workflow testing",slug:"git-workflow-testing",children:[]}]};export{t as data};

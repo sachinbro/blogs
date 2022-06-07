@@ -1,0 +1,1 @@
+const e={key:"v-d2ee7b24",path:"/github/deploy-site-gh-pages.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Deploy static Vuejs or React site using GitHub pages",slug:"deploy-static-vuejs-or-react-site-using-github-pages",children:[{level:3,title:"Introduction",slug:"introduction",children:[]}]}]};export{e as data};
