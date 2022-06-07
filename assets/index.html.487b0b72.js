@@ -1,1 +1,0 @@
-const t={key:"v-91b4c8d0",path:"/blogIndex/",title:"Blogs",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Vite tutorials",slug:"vite-tutorials",children:[]},{level:2,title:"Git workflow testing",slug:"git-workflow-testing",children:[]}]};export{t as data};
