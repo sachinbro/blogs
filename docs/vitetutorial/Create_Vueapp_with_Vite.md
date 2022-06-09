@@ -1,6 +1,6 @@
 
 
-# Are you making these mistakes while creating Vue app ?
+# Create your first VueJS app with Vite
 
 ## Introduction
 
