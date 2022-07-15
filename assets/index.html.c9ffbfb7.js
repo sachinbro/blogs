@@ -1,0 +1,1 @@
+const e={key:"v-505174d6",path:"/nestjs/",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:3,title:"Create First Nest API",slug:"create-first-nest-api",children:[]}],git:{updatedTime:1657858478e3,contributors:[{name:"Sachin Shilwal",email:"34100453+sachinbro@users.noreply.github.com",commits:1}]},filePathRelative:"nestjs/readme.md"};export{e as data};
